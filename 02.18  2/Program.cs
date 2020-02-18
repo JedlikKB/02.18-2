@@ -11,6 +11,8 @@ namespace _02._18__2
         static void Main(string[] args)
         {
 
+
+            Console.ReadKey();
         }
     }
 }
